@@ -1,0 +1,14 @@
+a{
+  border: none;
+  color: black;
+  padding: 12px 23px;
+  padding-left: 0.5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+a:hover {
+color: darkgrey;
+}

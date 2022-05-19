@@ -1,0 +1,2 @@
+2022-05-19,09:33,SMK NEGERI 4 Bandar Lampung,36.5C</tr> 
+2022-05-19,10:15,SMK NEGERI 4 Bandar Lampung,34.2C</tr> 
